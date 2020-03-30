@@ -1,0 +1,1 @@
+"./Arret.obj" "./Avancer.obj" "./Reculer.obj" "./Tourner_droite.obj" "./Tourner_gauche.obj" "./main.obj" "../lnk_msp430g2553.cmd" -llibc.a 
