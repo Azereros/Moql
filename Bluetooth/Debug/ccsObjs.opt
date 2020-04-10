@@ -1,0 +1,1 @@
+"./ADC.obj" "./Afficheur.obj" "./capteur_infrarouge.obj" "./main.obj" "../lnk_msp430g2553.cmd" -llibc.a 
